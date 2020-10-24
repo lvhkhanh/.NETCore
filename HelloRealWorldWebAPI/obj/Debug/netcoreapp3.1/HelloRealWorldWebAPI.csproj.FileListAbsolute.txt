@@ -32,3 +32,10 @@ D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\NSwag.Gene
 D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
 D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\obj\Debug\netcoreapp3.1\HelloRealWorldWebAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\obj\Debug\netcoreapp3.1\HelloRealWorldWebAPI.csproj.CopyComplete
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll

@@ -27,6 +27,7 @@ namespace HelloRealWorldWebAPI
         {
             services.AddControllers();
             services.AddSwaggerDocument();
+            services.AddGrpc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -49,6 +50,7 @@ namespace HelloRealWorldWebAPI
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapGrpcService<ProductsService>();
             });
         }
     }

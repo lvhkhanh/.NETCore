@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+package products;
+
+// The product service definition.
+
+service Products {
+
+  // Sends a product
+
+  rpc GetProduct (ProductRequest) returns (ProductReply);
+
+}
+
+// The request message containing the id of the requested product.
+
+message ProductRequest {
+
+  string productId = 1;
+
+}
+
+// The response message containing the product information.
+
+message ProductReply {
+
+  string productName = 1;
+
+  string price = 2;
+
+}
