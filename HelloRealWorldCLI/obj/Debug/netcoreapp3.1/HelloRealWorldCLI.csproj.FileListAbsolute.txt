@@ -1,0 +1,13 @@
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\bin\Debug\netcoreapp3.1\HelloRealWorldCLI.exe
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\bin\Debug\netcoreapp3.1\HelloRealWorldCLI.deps.json
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\bin\Debug\netcoreapp3.1\HelloRealWorldCLI.runtimeconfig.json
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\bin\Debug\netcoreapp3.1\HelloRealWorldCLI.runtimeconfig.dev.json
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\bin\Debug\netcoreapp3.1\HelloRealWorldCLI.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\bin\Debug\netcoreapp3.1\HelloRealWorldCLI.pdb
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\obj\Debug\netcoreapp3.1\HelloRealWorldCLI.csprojAssemblyReference.cache
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\obj\Debug\netcoreapp3.1\HelloRealWorldCLI.AssemblyInfoInputs.cache
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\obj\Debug\netcoreapp3.1\HelloRealWorldCLI.AssemblyInfo.cs
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\obj\Debug\netcoreapp3.1\HelloRealWorldCLI.csproj.CoreCompileInputs.cache
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\obj\Debug\netcoreapp3.1\HelloRealWorldCLI.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\obj\Debug\netcoreapp3.1\HelloRealWorldCLI.pdb
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\obj\Debug\netcoreapp3.1\HelloRealWorldCLI.genruntimeconfig.cache
