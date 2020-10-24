@@ -18,3 +18,17 @@ D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\obj\Debug\netcoreapp3.1\staticweba
 D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\obj\Debug\netcoreapp3.1\HelloRealWorldWebAPI.dll
 D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\obj\Debug\netcoreapp3.1\HelloRealWorldWebAPI.pdb
 D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\obj\Debug\netcoreapp3.1\HelloRealWorldWebAPI.genruntimeconfig.cache
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\obj\Debug\netcoreapp3.1\HelloRealWorldWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\KhanhLVH\git\.NETCore\HelloRealWorldWebAPI\obj\Debug\netcoreapp3.1\HelloRealWorldWebAPI.csproj.CopyComplete
