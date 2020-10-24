@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "o6dt4IYg8uMPwgwFkbvG0sWdfvpV1RkvwCON2dtS1mFnhBi+1PQEBZZloa7nkgEEXm8yq52eUjJr3TASDCegCw==",
+  "dgSpecHash": "vKVCngVN+UlM/rJLx4mSSclzzw+WwmsxN/lKGhpGzLhNRevE8YgV6YSflpm3joc5HMmskgSesqeeIqB129uxNg==",
   "success": true,
   "projectFilePath": "D:\\KhanhLVH\\git\\.NETCore\\HelloRealWorldCLI\\HelloRealWorldCLI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\google.protobuf\\3.12.3\\google.protobuf.3.12.3.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\grpc.core.api\\2.29.0\\grpc.core.api.2.29.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\grpc.net.client\\2.29.0\\grpc.net.client.2.29.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\grpc.net.common\\2.29.0\\grpc.net.common.2.29.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\grpc.tools\\2.30.0\\grpc.tools.2.30.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }

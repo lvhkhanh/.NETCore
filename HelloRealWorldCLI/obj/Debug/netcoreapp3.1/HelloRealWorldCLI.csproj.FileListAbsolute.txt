@@ -11,3 +11,9 @@ D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\obj\Debug\netcoreapp3.1\HelloRealWorl
 D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\obj\Debug\netcoreapp3.1\HelloRealWorldCLI.dll
 D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\obj\Debug\netcoreapp3.1\HelloRealWorldCLI.pdb
 D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\obj\Debug\netcoreapp3.1\HelloRealWorldCLI.genruntimeconfig.cache
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KhanhLVH\git\.NETCore\HelloRealWorldCLI\obj\Debug\netcoreapp3.1\HelloRealWorldCLI.csproj.CopyComplete
